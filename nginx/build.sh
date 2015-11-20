@@ -1,0 +1,1 @@
+docker build -rm -t ludo/nginx:centos6 .
